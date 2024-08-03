@@ -1,5 +1,8 @@
 # Prueba Mamma Mia!
 
+## Enlace de la página
+[Ir a la página] (https://animated-macaron-4332fc.netlify.app/)
+
 ## Habilidades
 * Utilizar React Router para controlar rutas y redireccionamientos.
 * Utilizar Context API almacenar y modificar el estado global.
@@ -15,8 +18,4 @@
 
 3. Manejar el estado global de la aplicación con Context API.
 
-
-
-
-
-# pizza
+# Carolina Castillo
