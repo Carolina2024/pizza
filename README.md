@@ -17,5 +17,3 @@
 2. Usar React Router como gestor de rutas de la aplicación.
 
 3. Manejar el estado global de la aplicación con Context API.
-
-# Carolina Castillo
